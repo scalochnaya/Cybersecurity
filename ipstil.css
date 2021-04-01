@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#infa{
+	height: 500px
+}
+
+#infa1{
+	background-color: #00bfff;
+	padding-left: 20px;
+}
+
+#infa2{
+	text-align: justify;
+	padding-left: 15px;
+	padding-right: 15px;
+	width: 800px
+}
+
+#shet{
+	margin-top: 20px;
+	margin-left: 85px;
+	background-color: gray;
+	border: 10px double black;
+	border-radius: 30 px;
+	padding: 30px;
+	width: 400px;
+}
+
+.hf{
+	background-color: #00bfff;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    width: 100%;
+}
+
+.dyd:hover{
+	color:white
+}
+
+#photo{
+	height: 40px;
+	width: 40px;
+}
+
+.osn{
+	float: left;
+}
+
+#vihod:hover{
+	color:white
+}
+
+#vihod{
+	margin: 0.1em 0.1em 0.1em 85em		
+}
+
+#aleks{
+	margin: 0.1em 0.1em 0.1em 100em
+}
+
+#ss{
+	color: purple;
+}
+
+header.hf{
+	text-align: center
+}
